@@ -1,0 +1,82 @@
+FUNNGRO WEBSITE REVAMP — SEO AUDIT REPORT
+================================================
+
+Project: Funngro Website Revamp
+Pages: 2 (For Brands + For Young Talent)
+Date: 2026
+
+1. ON-PAGE SEO
+----------------
+✓ Unique <title> on both pages.
+✓ Unique meta descriptions.
+✓ Relevant keywords included naturally.
+✓ One primary H1 per page.
+✓ Logical H2/H3 heading hierarchy.
+✓ Responsive viewport meta tag.
+✓ Canonical tags included (replace example.com after deployment).
+✓ Open Graph title/description included for social sharing.
+
+2. CONTENT SEO
+----------------
+Primary themes:
+- Funngro
+- young talent in India
+- brand campaigns
+- youth marketing
+- content creation
+- brand promotion
+- youth opportunities
+
+Content is written for humans first, with clear sections, short paragraphs and descriptive headings.
+
+3. TECHNICAL SEO
+-----------------
+✓ Semantic HTML5 structure.
+✓ Mobile-first responsive CSS.
+✓ Lightweight local CSS/JS.
+✓ No unnecessary frameworks.
+✓ Internal links between the two pages.
+✓ External links use target="_blank" with rel="noopener" where appropriate.
+
+After deployment:
+- Replace canonical example.com URLs with the real website URL.
+- Add a sitemap.xml.
+- Add robots.txt.
+- Connect Google Search Console.
+- Submit the sitemap in Search Console.
+- Compress any future images to WebP/AVIF.
+- Run Lighthouse/PageSpeed and fix any reported issues.
+
+4. ACCESSIBILITY
+-----------------
+✓ lang="en" is set.
+✓ Buttons/links have meaningful labels.
+✓ Navigation is keyboard accessible.
+✓ Color contrast is designed for readability.
+✓ Responsive layout supports mobile screens.
+
+5. PERFORMANCE
+----------------
+The project intentionally uses simple HTML/CSS/JS instead of a heavy framework.
+Recommended final checks:
+- Lighthouse Performance
+- Lighthouse Accessibility
+- Lighthouse Best Practices
+- Lighthouse SEO
+
+6. IMPORTANT PROJECT NOTE
+--------------------------
+The statistics and general product positioning used in this concept are based on information visible on Funngro's current public website. Verify all figures again immediately before final submission because website statistics can change.
+
+7. FINAL SEO CHECKLIST
+-----------------------
+[ ] Deploy website
+[ ] Replace canonical URLs
+[ ] Add sitemap.xml
+[ ] Add robots.txt
+[ ] Test all links
+[ ] Test mobile layout
+[ ] Run Lighthouse
+[ ] Fix accessibility warnings
+[ ] Submit final website URL in the project remarks
+[ ] Submit this SEO Audit Report
